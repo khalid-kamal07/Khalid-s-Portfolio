@@ -25,7 +25,7 @@ export const projects = [
     category: "Management System",
     description:
       "A web application for organizing student records and browsing data by department.",
-    url: "https://student-management-system-mu-self.vercel.app/",
+    url: "https://student-management-system-frontend-sage-zeta.vercel.app/",
     number: "03",
     tags: ["React", "CRUD", "Dashboard"],
     visual: "students",
