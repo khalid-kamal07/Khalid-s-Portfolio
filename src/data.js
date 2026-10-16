@@ -35,7 +35,7 @@ export const projects = [
     category: "Personal Finance",
     description:
       "A finance-tracking interface designed to help users manage and review expense records.",
-    url: "https://expense-tracker-oj5a.vercel.app/login",
+    url: "https://expense-tracker-oj5a.vercel.app/",
     number: "04",
     tags: ["React", "Authentication", "Finance"],
     visual: "finance",
